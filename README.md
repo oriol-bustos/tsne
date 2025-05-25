@@ -4,6 +4,4 @@ Interactive blood glucose t-SNE projection built with [Observable Framework](htt
 
 **Live demo:** [https://oriol-bustos.github.io/tsne-bg-viz](https://oriol-bustos.github.io/tsne-bg-viz)
 
-<img src="figures/screenshot.png" alt="Screenshot" width="300">
-
 _This version is deployed via GitHub Pages._

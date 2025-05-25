@@ -2,7 +2,7 @@
 <div style="display: flex; width: 100%; justify-content: center; flex-direction: column; align-items: center; text-align: center;">
   <h1>t-distributed stochastic neighbor embedding (t-SNE)</h1>
   <p class="subtitle"><em>Visualization of real vs. generated blood glucose data</em></p>
-  <p>Blood glucose data was converted to 3 dimensions using a delayed embedding. After that, it was transformed with a 3-dimensional t-SNE.</p>
+  <p>Blood glucose data was converted into 3 dimensions using a delayed embedding. After that, it was transformed with a 3-dimensional t-SNE.</p>
 </div>
 
 

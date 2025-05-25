@@ -2,6 +2,7 @@
 export default {
   // The app’s title; used in the sidebar and webpage titles.
   title: "tsne",
+  base: "/tsne/",
 
   // The pages and sections in the sidebar. If you don’t specify this option,
   // all pages will be listed in alphabetical order. Listing pages explicitly
@@ -24,6 +25,7 @@ export default {
 
   // Some additional configuration options and their defaults:
    theme: "light", // try "light", "dark", "slate", etc.
+   footer: "© 2025 Oriol Bustos · <a href='https://github.com/oriol-bustos/tsne' target='_blank'>GitHub</a>"
   // header: "", // what to show in the header (HTML)
   // footer: "Built with Observable.", // what to show in the footer (HTML)
   // sidebar: true, // whether to show the sidebar
